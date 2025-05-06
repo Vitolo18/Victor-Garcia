@@ -17,7 +17,7 @@ Para poder seguir este taller, deberás tener un conocimiento básico de inform�
 
 - **Lidia La Cal Mantas**  
 - **Twitter**: ---------  
-- **LinkedIn**: -------------------
+- **LinkedIn**: [-------------------](https)
 
 ## Recursos adicionales
 
