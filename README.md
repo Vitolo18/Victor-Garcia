@@ -15,7 +15,7 @@ Para poder seguir este taller, deberás tener un conocimiento básico de inform�
 
 ## Información básica acerca de este taller
 
-- **Lidia La Cal Mantas**  
+- **Victor Garcia**  
 - **Twitter**: ---------  
 - **LinkedIn**: [-------------------](https)
 
