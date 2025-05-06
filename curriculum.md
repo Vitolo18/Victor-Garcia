@@ -1,5 +1,5 @@
 # **Victor Garcia Fernandez**
-<img src="[https://randomuser.me/api/portraits/men/75.jpg" alt="Foto de perfil](https://th.bing.com/th/id/R.0f6677411066920c403c1b16f4857b2b?rik=27%2fXCVgao8NnCw&riu=http%3a%2f%2fstatic.seattletimes.com%2fwp-content%2fuploads%2f2015%2f08%2f29716d18-408b-11e5-b376-c6911141ceea-1020x1530.jpg&ehk=kax2RfWQrpCDc6BKcmiWMcPixUs6lLGhRGbaTKv32Og%3d&risl=&pid=ImgRaw&r=0)" align="right" width="150" style="border-radius: 8px; margin-left: 20px;" />
+<img src="https://th.bing.com/th/id/R.0f6677411066920c403c1b16f4857b2b?rik=27%2fXCVgao8NnCw&riu=http%3a%2f%2fstatic.seattletimes.com%2fwp-content%2fuploads%2f2015%2f08%2f29716d18-408b-11e5-b376-c6911141ceea-1020x1530.jpg&ehk=kax2RfWQrpCDc6BKcmiWMcPixUs6lLGhRGbaTKv32Og%3d&risl=&pid=ImgRaw&r=0" align="right" width="150" style="border-radius: 8px; margin-left: 20px;" />
 Ingeniero Informático con más de 5 años de experiencia en desarrollo de software, administración de sistemas y ciberseguridad. Apasionado por la tecnología, la automatización de procesos y la mejora continua en entornos digitales. Capaz de liderar proyectos técnicos y colaborar en equipos multidisciplinarios.
 
 📞 Tel: 612345678  
