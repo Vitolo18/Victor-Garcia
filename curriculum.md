@@ -8,7 +8,7 @@ Ingeniero Informático con más de 5 años de experiencia en desarrollo de softw
 
 ---
 
-## **EXPERIENCIA**
+# **EXPERIENCIA**
 
 **Desarrollador Full Stack – TechSolutions S.L.**  
 _Enero 2021 – Actualidad_  
@@ -24,7 +24,7 @@ _Julio 2018 – Diciembre 2020_
 
 ---
 
-## **EDUCACIÓN**
+# **EDUCACIÓN**
 
 **Grado en Ingeniería Informática – Universidad Politécnica de Madrid**  
 _2014 – 2018_  
@@ -37,7 +37,7 @@ _2020_
 
 ---
 
-## **HABILIDADES**
+# **HABILIDADES**
 
 - Programación: JavaScript, Python, Java, C#  
 - Web: HTML5, CSS3, React, Node.js, Express  
@@ -47,7 +47,7 @@ _2020_
 
 ---
 
-## **IDIOMAS**
+# **IDIOMAS**
 
 - Español: Nativo  
 - Inglés: Avanzado (C1)  
