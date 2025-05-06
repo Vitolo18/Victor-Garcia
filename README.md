@@ -29,5 +29,5 @@ Para poder seguir este taller, deberás tener un conocimiento básico de inform�
  [Docs like code, Anne Gentle](https://www.docslikecode.com/)  
   [The Vocabulary of GitHub for Documentation](https://www.writethedocs.org/guide/tools/github/)  
  [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)  
-  [Publish Your Project Documentation with GitHub Pages](https://pages.github.com/)  
- [Git and GitHub essentials for Docs](https://www.writethedocs.org/guide/tools/git-github/)  
+  [Publish Your Project Documentation with GitHub Pages](http/)  
+ [Git and GitHub essentials for Docs](ht)  
