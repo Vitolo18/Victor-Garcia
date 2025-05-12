@@ -1,4 +1,4 @@
-El texto se refiere a una configuración de lengua o habla que utiliza signos específicos y está organizada según las reglas del idioma. Para que un texto sea efectivo en la transmisión de un mensaje, debe cumplir con características como la coherencia y la cohesión. Existen diferentes tipos de textos, como los expositivos, argumentativos y literarios, cada uno con sus propias propiedades y propósitos. 
+ESTO ESTA EDITADO(editaooooooooo) a una configuración de lengua o habla que utiliza signos específicos y está organizada según las reglas del idioma. Para que un texto sea efectivo en la transmisión de un mensaje, debe cumplir con características como la coherencia y la cohesión. Existen diferentes tipos de textos, como los expositivos, argumentativos y literarios, cada uno con sus propias propiedades y propósitos. 
 Wikipedia
 +4
 Texto - Wikipedia, la enciclopedia libre
