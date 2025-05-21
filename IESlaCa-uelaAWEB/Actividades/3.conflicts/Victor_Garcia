@@ -1,0 +1,22 @@
+**¿Qué es un conflicto? Cuando ocurre? ¿Es bueno o malo?**
+un conflicto ocurre cuando Git no puede combinar automáticamente los cambios realizados
+ en diferentes ramas del repositorio porque se han editado las mismas líneas de un archivo o se han hecho cambios incompatibles.
+
+**¿Se puede evitar un conflicto? ¿Cómo?**
+si, una solucion es hacer "git pull"
+
+Practico
+10.
+da un error al cambiar 2 distintos
+
+11.
+milanesa esta modificado y requiere actualizar
+
+12
+si funciono
+
+13.
+no funciono
+
+14.
+tengo que guardar cambios
